@@ -6,7 +6,7 @@ Welcome to the **2-to-1 Multiplexer Design** project! 🎉 This repository showc
 
 | File Name                | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| **`mux_2to1.v`**         | Verilog module implementing the 2-to-1 multiplexer with gate-level modeling.|
+| **[mux_2to1.v](https://github.com/VarshithGovi/2-to-1-Multiplexer-Design-Verilog/blob/main/mux2to1.v)**         | Verilog module implementing the 2-to-1 multiplexer with gate-level modeling.|
 | **`mux_2to1_tb.v`**      | Testbench for **`mux_2to1.v`** to validate select and output functionality. |
 | **`mux_2to1.vcd`**       | Value Change Dump file generated after simulation for waveform analysis.    |
 | **`mux_2to1.vvp`**       | Compiled simulation file created by Icarus Verilog.                        |
